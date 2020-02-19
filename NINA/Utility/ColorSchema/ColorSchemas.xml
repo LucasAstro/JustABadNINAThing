@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    Copyright © 2016 - 2020 Stefan Berg <isbeorn86+NINA@googlemail.com>
+
+    This file is part of N.I.N.A. - Nighttime Imaging 'N' Astronomy.
+
+    N.I.N.A. is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    N.I.N.A. is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with N.I.N.A..  If not, see http://www.gnu.org/licenses/.
+-->
+<ColorSchemas>
+  <ColorSchema Name="Light">
+    <PrimaryColor Color="#FF000000" />
+    <SecondaryColor Color="#FF54748c" />
+    <BorderColor Color="#AABCBCBC" />
+    <BackgroundColor Color="#FFFFFFFF" />
+    <ButtonBackgroundColor Color="#FF0B3C5D" />
+    <ButtonBackgroundSelectedColor Color="#FF2190DB" />
+    <ButtonForegroundColor Color="#FFFFFFFF" />
+    <ButtonForegroundDisabledColor Color="#FFc5d2db" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFFFFFFF" />
+    <NotificationErrorTextColor Color="#FFFFFFFF" />
+    <SecondaryBackgroundColor Color="#FF0d3956" />
+    <TertiaryBackgroundColor Color="#FF114f77" />
+  </ColorSchema>
+  <ColorSchema Name="Classic">
+    <PrimaryColor Color="#FF000000" />
+    <SecondaryColor Color="#FF54748c" />
+    <BorderColor Color="#FFADB2B5" />
+    <BackgroundColor Color="#FFFFFFFF" />
+    <ButtonBackgroundColor Color="#FFDDDDDD" />
+    <ButtonBackgroundSelectedColor Color="#FFb8e0f3" />
+    <ButtonForegroundColor Color="#FF000000" />
+    <ButtonForegroundDisabledColor Color="#FFF4F4F4" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FF000000" />
+    <NotificationErrorTextColor Color="#FF000000" />
+    <SecondaryBackgroundColor Color="#FF4f4f4f" />
+    <TertiaryBackgroundColor Color="#FF707070" />
+  </ColorSchema>
+  <ColorSchema Name="Dark">
+    <PrimaryColor Color="#FF550C18" />
+    <SecondaryColor Color="#FF1B2A41" />
+    <BorderColor Color="#FF550C18" />
+    <BackgroundColor Color="#FF02010A" />
+    <ButtonBackgroundColor Color="#FF550C18" />
+    <ButtonBackgroundSelectedColor Color="#FF96031A" />
+    <ButtonForegroundColor Color="#FF02010A" />
+    <ButtonForegroundDisabledColor Color="#FF443730" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FF02010A" />
+    <NotificationErrorTextColor Color="#FF02010A" />
+    <SecondaryBackgroundColor Color="#FF230409" />
+    <TertiaryBackgroundColor Color="#FF2d060d" />
+  </ColorSchema>
+  <ColorSchema Name="Seance">
+    <PrimaryColor Color="#FF000000" />
+    <SecondaryColor Color="#FFBE90D4" />
+    <BorderColor Color="#AAAEA8D3" />
+    <BackgroundColor Color="#FFFFFFFF" />
+    <ButtonBackgroundColor Color="#FF663399" />
+    <ButtonBackgroundSelectedColor Color="#FF9A12B3" />
+    <ButtonForegroundColor Color="#FFFFFFFF" />
+    <ButtonForegroundDisabledColor Color="#FFaa69bc" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFFFFFFF" />
+    <NotificationErrorTextColor Color="#FFFFFFFF" />
+    <SecondaryBackgroundColor Color="#FF450d4f" />
+    <TertiaryBackgroundColor Color="#FF5d116b" />
+  </ColorSchema>
+  <ColorSchema Name="Persian">
+    <PrimaryColor Color="#FFECF0F1" />
+    <SecondaryColor Color="#FF9E9E9E" />
+    <BorderColor Color="#AABCBCBC" />
+    <BackgroundColor Color="#FF263238" />
+    <ButtonBackgroundColor Color="#FF00796B" />
+    <ButtonBackgroundSelectedColor Color="#FF00A592" />
+    <ButtonForegroundColor Color="#FFFFFFFF" />
+    <ButtonForegroundDisabledColor Color="#FF9E9E9E" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFECF0F1" />
+    <NotificationErrorTextColor Color="#FFECF0F1" />
+    <SecondaryBackgroundColor Color="#FF2a2c31" />
+    <TertiaryBackgroundColor Color="#FF2c3438" />
+  </ColorSchema>
+  <ColorSchema Name="Persian Faint">
+    <PrimaryColor Color="#FFBDC3C7" />
+    <SecondaryColor Color="#FF1D2731" />
+    <BorderColor Color="#AA3F4141" />
+    <BackgroundColor Color="#FF263238" />
+    <ButtonBackgroundColor Color="#FF007063" />
+    <ButtonBackgroundSelectedColor Color="#FF00BCA6" />
+    <ButtonForegroundColor Color="#FFFFFFFF" />
+    <ButtonForegroundDisabledColor Color="#FF9E9E9E" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFBDC3C7" />
+    <NotificationErrorTextColor Color="#FFBDC3C7" />
+    <SecondaryBackgroundColor Color="#FF2a2c31" />
+    <TertiaryBackgroundColor Color="#FF2c3438" />
+  </ColorSchema>
+  <ColorSchema Name="High Contrast">
+    <PrimaryColor Color="#FFFFFFFF" />
+    <SecondaryColor Color="#FF00b7b1" />
+    <BorderColor Color="#FFFF9900" />
+    <BackgroundColor Color="#FF000000" />
+    <ButtonBackgroundColor Color="#FFFF0000" />
+    <ButtonBackgroundSelectedColor Color="#FF00b7b1" />
+    <ButtonForegroundColor Color="#FFFFFFFF" />
+    <ButtonForegroundDisabledColor Color="#FF7f7f7f" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFFFFFFF" />
+    <NotificationErrorTextColor Color="#FFFFFFFF" />
+    <SecondaryBackgroundColor Color="#FF000000" />
+    <TertiaryBackgroundColor Color="#FF000000" />
+  </ColorSchema>
+  <ColorSchema Name="Black Coral">
+    <PrimaryColor Color="#FFDEDEE8" />
+    <SecondaryColor Color="#FF592941" />
+    <BorderColor Color="#FF656F87" />
+    <BackgroundColor Color="#FF545E75" />
+    <ButtonBackgroundColor Color="#FF99261a" />
+    <ButtonBackgroundSelectedColor Color="#FFe5a859" />
+    <ButtonForegroundColor Color="#FFF7F7FF" />
+    <ButtonForegroundDisabledColor Color="#FF9E9E9E" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFF7F7FF" />
+    <NotificationErrorTextColor Color="#FFF7F7FF" />
+    <SecondaryBackgroundColor Color="#FF393f4c" />
+    <TertiaryBackgroundColor Color="#FF4a5368" />
+  </ColorSchema>
+  <ColorSchema Name="Arsenic">
+    <PrimaryColor Color="#FFFFFFFF" />
+    <SecondaryColor Color="#FF82A3A1" />
+    <BorderColor Color="#AA495963" />
+    <BackgroundColor Color="#FF394648" />
+    <ButtonBackgroundColor Color="#FF406A79" />
+    <ButtonBackgroundSelectedColor Color="#FF64A6BD" />
+    <ButtonForegroundColor Color="#FFF8E9E9" />
+    <ButtonForegroundDisabledColor Color="#FF696D7D" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFF8E9E9" />
+    <NotificationErrorTextColor Color="#FFF8E9E9" />
+    <SecondaryBackgroundColor Color="#FF2a2c31" />
+    <TertiaryBackgroundColor Color="#FF30393a" />
+  </ColorSchema>
+  <ColorSchema Name="Vivid Malachite">
+    <PrimaryColor Color="#FFECF0F1" />
+    <SecondaryColor Color="#FF1b3325" />
+    <BorderColor Color="#FF285238" />
+    <BackgroundColor Color="#FF34403A" />
+    <ButtonBackgroundColor Color="#FF138A36" />
+    <ButtonBackgroundSelectedColor Color="#FF04E824" />
+    <ButtonForegroundColor Color="#FFFFFFFF" />
+    <ButtonForegroundDisabledColor Color="#FF9E9E9E" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFBDC3C7" />
+    <NotificationErrorTextColor Color="#FFBDC3C7" />
+    <SecondaryBackgroundColor Color="#FF2a352f" />
+    <TertiaryBackgroundColor Color="#FF415148" />
+  </ColorSchema>
+  <ColorSchema Name="Shark">
+    <PrimaryColor Color="#FFEDEDED" />
+    <SecondaryColor Color="#FFA9AAAC" />
+    <BorderColor Color="#AA3E4146" />
+    <BackgroundColor Color="#FF36393E" />
+    <ButtonBackgroundColor Color="#FF2a2c31" />
+    <ButtonBackgroundSelectedColor Color="#FF24252A" />
+    <ButtonForegroundColor Color="#FFFFFFFF" />
+    <ButtonForegroundDisabledColor Color="#FF848484" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFA9AAAC" />
+    <NotificationErrorTextColor Color="#FFA9AAAC" />
+    <SecondaryBackgroundColor Color="#FF202225" />
+    <TertiaryBackgroundColor Color="#FF404144" />
+  </ColorSchema>
+  <ColorSchema Name="Wisteria">
+    <PrimaryColor Color="#FFECF0F1" />
+    <SecondaryColor Color="#FF6644AD" />
+    <BorderColor Color="#AA3F4141" />
+    <BackgroundColor Color="#FF2D0D25" />
+    <ButtonBackgroundColor Color="#FF8E44AD" />
+    <ButtonBackgroundSelectedColor Color="#FF9B59B6" />
+    <ButtonForegroundColor Color="#FFECF0F1" />
+    <ButtonForegroundDisabledColor Color="#FFa866c4" />
+    <NotificationWarningColor Color="#FF5E330B" />
+    <NotificationErrorColor Color="#FF700000" />
+    <NotificationWarningTextColor Color="#FFECF0F1" />
+    <NotificationErrorTextColor Color="#FFECF0F1" />
+    <SecondaryBackgroundColor Color="#FF230d1e" />
+    <TertiaryBackgroundColor Color="#FF3d1433" />
+  </ColorSchema>
+  <ColorSchema Name="Navy">
+    <PrimaryColor Color="#FF6FC3DF" />
+    <SecondaryColor Color="#FFE93B19" />
+    <BorderColor Color="#AA1F3B53" />
+    <BackgroundColor Color="#FF0C141F" />
+    <ButtonBackgroundColor Color="#FF1C314F" />
+    <ButtonBackgroundSelectedColor Color="#FF488093" />
+    <ButtonForegroundColor Color="#FFBFEEFF" />
+    <ButtonForegroundDisabledColor Color="#FF3a5168" />
+    <NotificationWarningColor Color="#FFE93B19" />
+    <NotificationErrorColor Color="#FFDB0606" />
+    <NotificationWarningTextColor Color="#FF6FC3DF" />
+    <NotificationErrorTextColor Color="#FF6FC3DF" />
+    <SecondaryBackgroundColor Color="#FF10233d" />
+    <TertiaryBackgroundColor Color="#FF0f2138" />
+  </ColorSchema>
+</ColorSchemas>
